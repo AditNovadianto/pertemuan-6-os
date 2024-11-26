@@ -1,0 +1,9 @@
+#!/bin/sh
+# file : percobaan_a81 - generate some output to stdout
+# and stderr, and exit with a non-zero status
+# Send a message to stderr, and another to stdout,
+# Exit with status 99
+echo "This goes to stdout"
+echo "This goes to stdout and has foo in the line"
+echo "This goes to stderr" >&2
+exit 99

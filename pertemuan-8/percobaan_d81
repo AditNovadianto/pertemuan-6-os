@@ -1,0 +1,23 @@
+#!/bin/sh
+# file : percobaan_d81
+# Uses percobaan_a81 to generate some output and give us an
+# exit status to capture.
+# Get the exit status of percobaan_a81 into percobaan_a81stat.
+# stderr of percobaan_a81 is processed by the pipe, stdout
+# is left alone.
+# Save a copy of stdout
+exec 3>&1
+# Run a subshell, with 4 copied to 1 so we get it in stdout.
+# Capture the output in backtics`
+# percobaan_a81stat=`( ) 4>&1`
+# In the subshell, run another subshell to execute percobaan_a81, and
+# echo the status code to 4
+# (./percobaan_a81; echo $? >&4)
+# stdout from the inner subshell is directed to the original stdout (3)
+# stderr is passed into the pipe for further processing.
+# stdout from the pipe is redirected back to stderr
+# Close the extra descriptors before running the commands
+exec 3>&1
+percobaan_a81stat=`((./percobaan_a81 2>&1 1>&3 3>&- 4>&- ; echo $? >&4) | sed s/err/ERR/ 1>&2 3>&- 4>&- ) 4>&1`
+echo Last command status=$?
+echo percobaan_a81stat=$percobaan_a81stat
