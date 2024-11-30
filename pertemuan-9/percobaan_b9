@@ -1,3 +1,4 @@
-Shell Scripting untuk administrasi sistem operasi Unix.
-Ditulis oleh Aditya Novadianto Pratama.
-Program Studi : Teknik Informatika.
+#!/bin/sh
+echo "Shell Scripting untuk administrasi sistem operasi Unix."
+echo "Ditulis oleh Aditya Novadianto Pratama."
+echo "Program Studi : Teknik Informatika."
