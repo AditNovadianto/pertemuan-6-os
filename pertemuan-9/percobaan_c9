@@ -1,0 +1,14 @@
+if [ $# -ne 2 ]
+then
+echo "Error : Number are not supplied"
+echo "Usage : $0 number1 number2"
+exit 1
+fi
+ans=`expr $1 + $2`
+ant=`expr $1 - $2`
+anu=`expr $1 / $2`
+anv=`expr $1 % $2`
+echo "Sum is $ans"
+echo "Subtraction is $ant"
+echo "Division is $anu"
+echo "Modulo is $anv"
