@@ -1,0 +1,4 @@
+rm: /home/guest/shortmessage: No such file or directory
+rm: /home/guest2/shortmessage: No such file or directory
+rm: /home/opsys23/shortmessage: No such file or directory
+rm: /home/tif23/shortmessage: No such file or directory
