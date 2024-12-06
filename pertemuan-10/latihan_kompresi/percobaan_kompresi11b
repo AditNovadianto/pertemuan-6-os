@@ -1,0 +1,36 @@
+Leading Health Care Provider Solves Disaster Recovery Challenge with SimpliVity
+
+Challenges: Refresh legacy IT infrastructure, enable disaster recovery, improve system availability
+
+Key Applications: GE Healthcare CPS electronic medical record system, Dentrix Enterprise practice management system, MS SQL Server, MS Dynamics, MS Exchange, MS Active Directory, Citrix VDI, ShortTel IP PBX, LANDESK asset management, Sophos security software, Spiceworks help desk applications.
+
+Solution: SimpliVity hyperconverged infrastructure.
+
+Benefits:
+
+- Fast and efficient disaster recovery; rapid backup and restoration for all applications and IT services.
+- Accelerated IT service agility; clone and move large VMs in seconds
+- High availability; 100% uptime since inception.
+- Simplified administration; storage experts no longer needed for routine operations.
+- Massive storage capacity savings; 1.25 PB of logical data consumes only 40 TB of disk space.
+- Compact footprint; full rack of equipment replaced by four 2U units for estimated $34K power and cooling savings.
+
+‘‘With our old system it used to take 12 hours to perform a local backup of our 1 TB SQL database. With SimpliVity we can back it up remotely in just one minute.‘‘ said Jason Lewis, Director of IT Infrastructure and Security, PCHC
+
+Introduction
+
+Penobscot Community Health Care, the largest and most comprehensive federally qualified health center in Maine, replaced its legacy multivendor IT implementation with SimpliVity hyperconverged infrastructure. The SimpliVity solution provides rapid disaster recovery and ensures high performance and availability for the health care provider‘s mission-critical applications and core IT services.
+
+Business Challenge: Disaster Recovery, Infrastructure Modernization and Consolidation
+
+After evaluating a number of options including solutions from Dell, Pivot3 and a hosted service provider, Lewis selected SimpliVity hyperconverged infrastructure for PCHC‘s next-generation IT implementation. ‘‘SimpliVity‘s built-in data replication, deduplication and optimization features really stood out,‘‘ explains Lewis. ‘‘SimpliVity packs the entire IT stack, including data backup and recovery functionality, into one device.‘‘
+
+SimpliVity Solution
+
+PCHC replaced an entire rack of legacy equipment with four 2U SimpliVity nodes in its primary data center, saving an estimated $34,500 in annual power and cooling costs. A fully redundant configuration ensures continuous availability in the event of equipment failures or application mishaps. Two additional SimpliVity nodes in a remote colocation facility enable seamless disaster recovery.
+
+Benefits
+
+SimpliVity‘s accelerated data efficiencies streamline backup and recovery functions. ‘‘With our old system it used to take 12 hours to perform a local backup of our 1 TB SQL database. With SimpliVity we can back it up remotely in just one minute,‘‘ explains Lewis. ‘‘We now remotely back up our most-critical applications every 30 minutes.‘‘ SimpliVity‘s inherent data efficiencies also dramatically reduce storage costs; in the primary data center PCHC maintains 1.25 PB of data using just 40 TB of physical storage.
+
+The SimpliVity solution also streamlines system administration. ‘‘With SimpliVity, IT generalists can clone VMs and spin up services in seconds from vCenter,‘‘ says Lewis. ‘‘Our specialists are freed up to focus on more strategic activities.‘‘
