@@ -1,0 +1,89 @@
+10 HCI Systems You Need To know In 2021.
+
+Mark Haranas, June 24, 2021, 02:00 PM EDT
+
+10 HCI SYSTEMS YOU NEED TO KNOW IN 2021.
+
+The $9 billion and ever-growing hyperconverged infrastructure market is hitting its stride this year with new edge solutions, more powerful servers and software innovation at its peak.
+
+Despite the global COVID-19 pandemic, the worldwide hyperconverged market reached $2.5 billion in the fourth quarter of 2020 alone, up 7.4 percent year over year, according to research firm IDC. The top market leaders for HCI systems like Dell Technologies and Hewlett Packard Enterprise continue to add new features and next-generation microprocessors to their hyperconverged product line in 2021, while software leaders such as Nutanix and VMware are innovating at breakneck speed to capture new opportunities around virtual desktop infrastructure (VDI) and edge computing.
+
+According to The NPD Group, which tracks monthly technology sales-out information from the largest IT distributors and resellers across North America, hyperconverged hardware sales grew four percent year over year in the first quarter of 2021 as the COVID-19 pandemic accelerated businesses digital transformation (DX) plans.
+
+âWithin these DX efforts, edge is quickly accelerating as needs for lower latency continue to drive further expansion and adoption. Moving data infrastructure, applications, and data resources closer to the edge will enable faster response to business needs and increased flexibility,â said NPD Group, adding that HCI is a significant enabler for edge computing.
+
+With half of 2021 in the books, CRN takes a look at 10 of the hottest hyperconverged infrastructure systems in the market today.
+
+Cisco Hyperflex HX-Series
+
+This month, Cisco launched its new UCS X-Series of servers that will eventually become part of its HyperFlex family of hyperconverged infrastructure platforms. Another new feature to Hyperflex is that Cisco is now implementing Kubernetes and an instance of Kernel-based virtual machine (KVM) foundation to create an Intersight Workload Engine that functions as Ciscoâs operating system for its Hyperflex portfolio.
+
+Ciscoâs Hyperflex HX-Series specifically unifies compute, storage, and networking with cloud management engineered for customers' core and edge computing needs.
+
+The HyperFlex HX Data Platform is a high-performance, extensible distributed file system that supports multiple hypervisors with a wide range of data management and optimization services. The platform is designed for independent scaling of compute, caching, and capacity, giving businesses flexibility to scale hyperconverged environments based on evolving needs. Cisco said it is bringing HCI into a new era of performance with its HX220c M5 All NVMe node.
+
+Dellâs VxRail E Series
+
+Dell Technologies is the worldwide market share leader in hyperconverged infrastructure with VxRail, jointly engineered and integrated with VMware. The new VxRail E Series is now equipped with the latest Dell PowerEdge servers with the newest microprocessor innovation. Another new feature added this year is better flexibility with the VxRail E Series, thanks to 50 percent more PCIe slots to add additional resources such as network or Fibre Channel cards. It was also unveiled recently that VxRail systems will be updated with future VMware technologyâsuch as when new versions or releases of NSX-T and Tanzu are launchedâin a single upgrade cycle.
+
+The 1U/1 Node VxRail E Series is also available in a single socket server with up to 64 cores, NVMe option, and T4 GPUs for a wide range of use cases. Dell is releasing new self-service tools for its VxRail HCI System Software that will enable customers to validate, orchestrate, and automate cluster deployment on their own time. Dell Technologies is introducing VxRail dynamic nodes, which are compute-only systems designed to help customers simplify operations, better manage storage resources, and reduce costs by supporting more workloads and extending VxRail environments to include external storage options.
+
+Dellâs VxRail V Series With New Nvidia, PowerEdge Offerings
+
+Dell’s VxRail V Series offers a virtual desktop infrastructure (VDI)-optimized 2U one-node platform with GPU hardware for graphics-intensive desktops and workloads with models including the VxRail V470 and V570.
+
+This year, Dell revamped the VxRail V Series to now offer Nvidia A40 or Nvidia A100 Tensor Core GPU options to provide greater performance and simpler deployment for demanding applications such as artificial intelligence and machine learning. Nvidia said its new A100 Tensor Core GPU delivers unprecedented acceleration powered by the Nvidia Ampere Architecture, providing up to 20 times higher performance over its prior generation.
+
+In a blockbuster move for VxRail, Dell unveiled this year that its new PowerEdge servers are now available for its VxRail systems. In one of its largest server launches in history, Dell launched more than a dozen new PowerEdge servers in March with new capabilities along with the newest chip innovation from Intel and AMD. Both semiconductor vendors recently released their third-generation processors that are now inside PowerEdge servers and will become part of VxRail’s hyperconverged portfolio.
+
+HPE SimpliVity 4.1.0
+
+In March, HPE turned up the edge computing heat on its competition with SimpliVity hyperconverged infrastructure edge computing enhancements including support for Kubernetes containers and cloud-native backup. The new HPE SimpliVity 4.1.0 update enables SimpliVity to run both container and VMware virtual machine workloads at the edge with a Kubernetes container plugin and adds cloud-native backup from multiple edge sites through HPE Cloud Volumes.
+
+SimpliVityâs HCI enhancements also include centralized application and data replication support from the HPE StoreOnce appliance for compliance and long-term data retention. All of the new capabilities are supported with VMware vSphere 7.0. The new HPE edge architecture enhancement, which takes edge applications from a three-tier architecture to a consolidated HCI solution, provides the industryâs first edge âsimplified deploymentâ architecture, said HPE. The solution enables organizations to deploy, back up, and monitor hundreds of edge sites in an automated fashion from a centralized data center or location, backed by HPEâs Aruba networking.
+
+IBM Spectrum Fusion HCI
+
+IBMâs brand new Spectrum Fusion HCI is an integrated HCI system for containers that is targeting Red Hat OpenShift for hybrid cloud, AI, and GPU-enhanced workloads via IBMâs Spectrum Fusion enterprise storage services. IBM Spectrum Fusion provides a streamlined way for organizations to discover, secure, protect, and manage data from the edge to the data center to the public cloud.
+
+IBM says the HCI appliance is Red Hat OpenShift made simple.
+
+The HCI system is a turn-key solution to deploy Red Hat OpenShift and a hybrid cloud data platform on a 42U rack that offers a scalable containerized file system with erasure coding. Additionally, IBMâs new offering includes Ethernet switches as well as data resilience for local and remote backup and recovery. Data can be processed on the IBM Spectrum Fusion HCI and then leveraged in the cloud or on another IBM Spectrum Scale system, utilizing the high-performance ESS 3200 or ESS 3000 NVMe flash system.
+
+Lenovo ThinkAgile With VMware vSAN
+
+Lenovo recently launched its new ThinkAgile VX Series of hyperconverged platforms combined with AMD EPYC 7003 Series processors. The VX Series is tightly integrated with VMware vSAN to enable public cloud-like simplicity in a private or hybrid cloud environment.
+
+The VX Series offers configuration flexibility to meet any use case, and all systems are available in all-flash or hybrid configurations. Scaling compute or storage capacity can start with as few as 3 nodes.
+
+Lenovo’s four new HCI solutions include the ThinkAgile VX3575-G, designed for compute-heavy applications such as VDI and AI workloads with the ability to support up to eight NVIDIA GPUs. The ThinkAgile VX5575 offers a storage-dense 2U solution for fast, high-capacity storage applications including email management, data, and analytics. Lenovo’s ThinkAgile VX7575 and ThinkAgile VX7576 platforms are optimized 2U for high-performance workloads such as analytics and databases.
+
+Microsoft Azure Stack HCI
+
+Microsoftâs Azure Stack HCI is a hybrid cloud recovery and monitoring solution that can be run on-premises, combining the price-performance of hyperconverged infrastructure with native Azure hybrid capabilities. The Azure Stack HCI service runs Windows and Linux virtual machines in either a data center or an edge environment.
+
+Over the past six months, Microsoft has tightened its partnerships in the HCI market. Dell customers can now run on-premises HCI via the Azure stack, while HPE this month added the Azure Stack HCI to its HPE GreenLake as-a-service offering. Microsoftâs HCI solution integrates with other Azure offerings, such as Hyper-V and Azure Backup, which can be managed alongside the stack.
+
+Azure Stack clusters contain between two and 16 servers, which run an operating system that is specifically designed for hyperconverged infrastructure. Microsoft includes a deployment wizard to quickly set up an Azure Stack HCI cluster and connect to Azure to leverage native integration with core Azure services.
+
+Nutanix Acropolis
+
+Nutanix’s Acropolis Operating System is a top-notch solution for data center management and high-performance applications. As a major part of Nutanix’s HCI software stack, AOS creates a virtual server that can scale when new resources are needed alongside its own AHV hypervisor, with additional support for VMware ESXi, Microsoft Hyper-V, and Citrix XenServer.
+
+Nutanix Acropolis provides a comprehensive set of services to visualize the network, automate common network operations, and secure the network through native services and partner integration. AOS software-defined storage uses MapReduce technology to deliver highly distributed storage to ensure no single points of failure and negligible impact on real-time performance.
+
+Nutanix HCI is composed of its software stack, which includes AOS, AHV, and an infrastructure control plane, Prism. Nutanix offers subscription, term-based software licenses that are portable across hardware platforms â including Dell, IBM, Fujitsu, Lenovo, HPE, and Inspur—and public clouds, with a major focus on HPE.
+
+Scale Computing HC3 Edge
+
+Scale Computing is striving to become a market leader in hyperconverged solutions at the edge with its HE150 and HE500 edge computing offerings. Its HC3 Edge portfolio is built specifically for sites that need highly available, autonomous infrastructure that can be deployed anywhere. Scale Computingâs edge series brings on-premises edge computing with disaster recovery to remote locations at an entry-level price point.
+
+HC3 Edge uses software that eliminates the need for traditional virtualization software, disaster recovery software, servers, and shared storage, replacing these with a fully integrated, highly available system for running applications. The company’s HyperCore self-healing technology automatically identifies, mitigates, and corrects problems in the infrastructure in real-time, enabling applications to achieve maximum uptime even when local IT resources and staff are scarce.
+
+The HE150 is a small, all-flash, NVMe storage-based compute appliance that delivers simplicity, efficiency, and enterprise-ready virtualization. The HE500 provides enterprise-class features to remote locations while boosting edge computing capabilities.
+
+VMware vSAN is arguably the most popular software-defined storage platform for HCI environments globally. The storage virtualization platform is fully integrated with VMware vSphere, providing cloud virtualization for servers, and aggregates local or direct-attached data storage devices to create a single storage pool shared across all hosts in a vSAN cluster.
+
+vSAN eliminates the need for external shared storage and simplifies storage configuration through Storage Policy-Based Management (SPBM). Using virtual machine (VM) storage policies, you can define storage requirements and capabilities. VMware’s offering integrates with VMware’s Kubernetes and VM management Tanzu, while it can also be used for disaster recovery and deployed on top of public clouds.
+
+VMwareâs vSAN has more than 30,000 customers. The vSAN ReadyNodes are highly configurable and are certified on more than 500 x86 servers that are ready to run vSAN out of the box.
